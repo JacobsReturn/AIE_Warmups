@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Warmup", "Warmup\Warmup.vcx
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Warmup2", "Warmup2\Warmup2.vcxproj", "{B3B172CF-77F5-48BB-93F0-C10019D17F92}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Warmup3 RPN", "Warmup3 RPN\Warmup3 RPN.vcxproj", "{0C3907BF-C8C7-4E5B-80F6-530B61F61A17}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{B3B172CF-77F5-48BB-93F0-C10019D17F92}.Release|x64.Build.0 = Release|x64
 		{B3B172CF-77F5-48BB-93F0-C10019D17F92}.Release|x86.ActiveCfg = Release|Win32
 		{B3B172CF-77F5-48BB-93F0-C10019D17F92}.Release|x86.Build.0 = Release|Win32
+		{0C3907BF-C8C7-4E5B-80F6-530B61F61A17}.Debug|x64.ActiveCfg = Debug|x64
+		{0C3907BF-C8C7-4E5B-80F6-530B61F61A17}.Debug|x64.Build.0 = Debug|x64
+		{0C3907BF-C8C7-4E5B-80F6-530B61F61A17}.Debug|x86.ActiveCfg = Debug|Win32
+		{0C3907BF-C8C7-4E5B-80F6-530B61F61A17}.Debug|x86.Build.0 = Debug|Win32
+		{0C3907BF-C8C7-4E5B-80F6-530B61F61A17}.Release|x64.ActiveCfg = Release|x64
+		{0C3907BF-C8C7-4E5B-80F6-530B61F61A17}.Release|x64.Build.0 = Release|x64
+		{0C3907BF-C8C7-4E5B-80F6-530B61F61A17}.Release|x86.ActiveCfg = Release|Win32
+		{0C3907BF-C8C7-4E5B-80F6-530B61F61A17}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

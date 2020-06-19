@@ -1,0 +1,8 @@
+﻿  Warmup3 RPN.cpp
+C:\Users\s200503\Desktop\repos\Warmup\Warmup3 RPN\Warmup3 RPN.cpp(48,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\s200503\Desktop\repos\Warmup\Warmup3 RPN\Warmup3 RPN.cpp(85,42): warning C4244: 'return': conversion from '_Ty' to 'float', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+  Warmup3 RPN.vcxproj -> C:\Users\s200503\Desktop\repos\Warmup\Debug\Warmup3 RPN.exe
