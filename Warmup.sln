@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Warmup3 RPN", "Warmup3 RPN\
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Warmup Record Performance", "Warmup Record Performance\Warmup Record Performance.vcxproj", "{FA07EC07-C85E-451B-AECD-A02F3189B946}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Recursive Walk Over Tree Warmup", "Recursive Walk Over Tree Warmup\Recursive Walk Over Tree Warmup.vcxproj", "{41870629-F715-4796-9110-9D50F7801F52}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -51,6 +53,14 @@ Global
 		{FA07EC07-C85E-451B-AECD-A02F3189B946}.Release|x64.Build.0 = Release|x64
 		{FA07EC07-C85E-451B-AECD-A02F3189B946}.Release|x86.ActiveCfg = Release|Win32
 		{FA07EC07-C85E-451B-AECD-A02F3189B946}.Release|x86.Build.0 = Release|Win32
+		{41870629-F715-4796-9110-9D50F7801F52}.Debug|x64.ActiveCfg = Debug|x64
+		{41870629-F715-4796-9110-9D50F7801F52}.Debug|x64.Build.0 = Debug|x64
+		{41870629-F715-4796-9110-9D50F7801F52}.Debug|x86.ActiveCfg = Debug|Win32
+		{41870629-F715-4796-9110-9D50F7801F52}.Debug|x86.Build.0 = Debug|Win32
+		{41870629-F715-4796-9110-9D50F7801F52}.Release|x64.ActiveCfg = Release|x64
+		{41870629-F715-4796-9110-9D50F7801F52}.Release|x64.Build.0 = Release|x64
+		{41870629-F715-4796-9110-9D50F7801F52}.Release|x86.ActiveCfg = Release|Win32
+		{41870629-F715-4796-9110-9D50F7801F52}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
