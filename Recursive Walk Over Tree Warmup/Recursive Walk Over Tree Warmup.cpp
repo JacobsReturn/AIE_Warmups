@@ -134,12 +134,12 @@ int main(int argc, char** argv)
        20             70
      10   30        60  80
     ************************/
-    //Node* root = new Node(50,
-    //    new Node(20, new Node(10), new Node(30)),
-    //    new Node(70, new Node(60), new Node(80))
-    //);
+    Node* root = new Node(50,
+        new Node(20, new Node(10), new Node(30)),
+        new Node(70, new Node(60), new Node(80))
+    );
 
-    Node* root = new Node(50, new Node(40, new Node(20, new Node(40, new Node(20, new Node(14), new Node(230)), new Node(50, new Node(13), new Node(312))), new Node(40, new Node(20, new Node(14), new Node(230)), new Node(50, new Node(13), new Node(312)))), new Node(50, new Node(40, new Node(20, new Node(14), new Node(230)), new Node(50, new Node(13), new Node(312))), new Node(40, new Node(20, new Node(14), new Node(230)), new Node(50, new Node(13), new Node(312))))), new Node(40, new Node(20, new Node(40, new Node(20, new Node(14), new Node(230)), new Node(50, new Node(13), new Node(312))), new Node(40, new Node(20, new Node(14), new Node(230)), new Node(50, new Node(13), new Node(312)))), new Node(50, new Node(40, new Node(20, new Node(14), new Node(230)), new Node(50, new Node(13), new Node(312))), new Node(40, new Node(20, new Node(14), new Node(230)), new Node(50, new Node(13), new Node(312))))));
+    //Node* root = new Node(50, new Node(40, new Node(20, new Node(40, new Node(20, new Node(14), new Node(230)), new Node(50, new Node(13), new Node(312))), new Node(40, new Node(20, new Node(14), new Node(230)), new Node(50, new Node(13), new Node(312)))), new Node(50, new Node(40, new Node(20, new Node(14), new Node(230)), new Node(50, new Node(13), new Node(312))), new Node(40, new Node(20, new Node(14), new Node(230)), new Node(50, new Node(13), new Node(312))))), new Node(40, new Node(20, new Node(40, new Node(20, new Node(14), new Node(230)), new Node(50, new Node(13), new Node(312))), new Node(40, new Node(20, new Node(14), new Node(230)), new Node(50, new Node(13), new Node(312)))), new Node(50, new Node(40, new Node(20, new Node(14), new Node(230)), new Node(50, new Node(13), new Node(312))), new Node(40, new Node(20, new Node(14), new Node(230)), new Node(50, new Node(13), new Node(312))))));
 
     PrintTree(root);
 
